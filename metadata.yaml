@@ -1,0 +1,48 @@
+_repo: Vaarallinen-kosinta-ynna-muita-kertomuksia_71947
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Koskelainen, Yrjö
+    alias: Koskelainen, Yrjo
+    birthdate: 1885
+    deathdate: 1951
+    gutenberg_agent_id: '44560'
+    url: http://www.gutenberg.org/2009/agents/44560
+  - agent_name: Talvio, Maila
+    alias: Mikkola, Maila Winter
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '39128'
+    url: http://www.gutenberg.org/2009/agents/39128
+    wikipedia: https://fi.wikipedia.org/wiki/Maila_Talvio
+creator:
+  author:
+    agent_name: Bjørnson, Bjørnstjerne
+    aliases:
+    - Björnson, Björnstjerne
+    - Bjornson, Bjornstjerne
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '1772'
+    url: http://www.gutenberg.org/2009/agents/1772
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
+    - https://fi.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
+description: ''
+gutenberg_issued: '2023-10-24'
+identifiers:
+  gutenberg: '71947'
+language: fi
+pgterms:marc904: https://archive.org/details/worksofrevjohnwe6wesl
+pgterms:marc905: 20231022075817bjrnson
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vaarallinen kosinta ynnä muita kertomuksia
+url: http://www.gutenberg.org/ebooks/71947
