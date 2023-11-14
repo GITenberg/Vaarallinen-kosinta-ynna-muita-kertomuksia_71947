@@ -15,6 +15,9 @@ contributor:
     gutenberg_agent_id: '39128'
     url: http://www.gutenberg.org/2009/agents/39128
     wikipedia: https://fi.wikipedia.org/wiki/Maila_Talvio
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bjørnson, Bjørnstjerne
@@ -29,6 +32,8 @@ creator:
     - https://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
     - https://fi.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71947#Vaarallinen-kosinta-ynna-muita-kertomuksia
 gutenberg_issued: '2023-10-24'
 identifiers:
   gutenberg: '71947'
